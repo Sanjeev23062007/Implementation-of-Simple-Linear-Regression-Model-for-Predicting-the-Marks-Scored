@@ -14,12 +14,12 @@ To write a program to predict the marks scored by a student using the simple lin
 4. 
 
 ## Program:
-![Screenshot 2025-02-28 093500](https://github.com/user-attachments/assets/f6429da6-1c0a-49c6-a383-27c4e69e0382)
-![Screenshot 2025-02-28 093516](https://github.com/user-attachments/assets/388eb3dc-4747-4b36-830f-70b63e7bac54)
-![Screenshot 2025-02-28 093606](https://github.com/user-attachments/assets/dbc417e9-0ae1-4953-8a79-0e0e6f386506)
-![Screenshot 2025-02-28 093547](https://github.com/user-attachments/assets/2941ff20-3b79-4b38-ac00-2b598a658b99)
-![Screenshot 2025-02-28 093558](https://github.com/user-attachments/assets/2a3bf505-2f6a-41f5-ab0e-a6a1229b000d)
-![Screenshot 2025-02-28 093606](https://github.com/user-attachments/assets/bf6d5d00-3b53-421e-9951-ec12f6284887)
+![Screenshot 2025-02-28 093500](https://github.com/user-attachments/assets/8178653d-da81-4733-a2e4-9b4c871607e7)
+![Screenshot 2025-02-28 093516](https://github.com/user-attachments/assets/7b4e9723-37cf-43f2-84d5-626b72bea9d1)
+![Screenshot 2025-02-28 093536](https://github.com/user-attachments/assets/87c954b7-e30c-4100-a58a-b3b8aeaaabfd)
+![Screenshot 2025-02-28 093547](https://github.com/user-attachments/assets/99e2b7fd-6068-4b92-932a-e0c56a65edf0)
+![Screenshot 2025-02-28 093558](https://github.com/user-attachments/assets/b67ccada-2adb-4512-84de-08d1fc44e919)
+![Screenshot 2025-02-28 093606](https://github.com/user-attachments/assets/458937e0-6f95-4449-9074-daf5ed69d1b8)
 
 
 
